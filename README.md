@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Opachou&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Opachou&fontColor=999999&fontSize=50)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jrperxachs) 
 
